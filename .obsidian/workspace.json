@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "9d3130995eea2e2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0df3019197aa424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9ff33b8c5153cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "monitors_confing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "monitors_confing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec92e8e2468b459b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c1851783b855493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a51c37ad9ee3c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef730315cde29e41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb90c82384f1a71a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84435069bdb75768",
+    "type": "split",
+    "children": [
+      {
+        "id": "1532b3b70a16f15b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f69fb56e03897ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "monitors_confing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for monitors_confing"
+            }
+          },
+          {
+            "id": "fcec2f2d80902453",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "monitors_confing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from monitors_confing"
+            }
+          },
+          {
+            "id": "05bfadf6eb139fe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23377b6d6c4b4747",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "monitors_confing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of monitors_confing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f9ff33b8c5153cd9",
+  "lastOpenFiles": [
+    "README.md",
+    "monitors_confing.md"
+  ]
+}

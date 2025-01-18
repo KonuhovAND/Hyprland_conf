@@ -1,0 +1,2 @@
+1. some people on Reddit dicuss and found out this article how made different workspaces on each monitors - [link](https://www.reddit.com/r/hyprland/comments/12op694/confused_how_workspaces_function_on_multiple/)
+2. 
