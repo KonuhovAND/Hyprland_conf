@@ -2,3 +2,5 @@
 
 https://youtu.be/-v73WFhJJeg?si=N4s4qcCrex0JQTRD
 
+Тут ссылка на то, как сделать ексел в обсе, много пока не нужно, но пусть здесь будет 
+https://youtu.be/P_Q6avJGoWI?si=6PM499tKbHy1YSmb
