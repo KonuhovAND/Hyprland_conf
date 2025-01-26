@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BlackBerry keys2.md",
+                "file": "Obsidian tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BlackBerry keys2"
+              "title": "Obsidian tips"
             }
           }
         ],
@@ -180,8 +180,10 @@
   "active": "bf69fa4970c5bcee",
   "lastOpenFiles": [
     "monitors_confing.md",
-    "BlackBerry keys2.md",
+    "Obsidian tips.md",
     "Untitled",
-    "README.md"
+    "songs.md",
+    "README.md",
+    "BlackBerry keys2.md"
   ]
 }
